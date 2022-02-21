@@ -2,7 +2,8 @@
 
 Got pwnd? `haxcan` (hack scan) scans all the WordPress files for a potentional malware in just one click. No bloated and useless settings, just activate and scan!
 
-![Haxcan Logo](haxcan-logo.svg)
+<img src="haxcan-logo.svg" alt="" width="400" />
+
 ![Haxcan Demo](haxcangif.gif)
 
 Contents
